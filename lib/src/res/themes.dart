@@ -83,7 +83,7 @@ ThemeData createDarkTheme(BuildContext context){
       color: _darkULPTTheme.backgroundColor,
       textStyle: TextStyle(color: _darkULPTTheme.interactiveHintTextColor, fontSize: 14),
     ),
-    dialogTheme: DialogTheme(
+    dialogTheme: DialogThemeData(
       backgroundColor: _darkULPTTheme.backgroundColor,
       titleTextStyle: TextStyle(
           fontSize: 24,
