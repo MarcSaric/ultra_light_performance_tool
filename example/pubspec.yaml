@@ -15,8 +15,10 @@ dependencies:
   ultra_light_performance_tool:
     path: ../
 
-  sqflite: ^2.3.0
-  sqflite_common_ffi: ^2.3.0
+  sqflite: ^2.4.2
+  sqlite3: ^3.3.1
+  sqflite_common_ffi: ^2.4.0+2
+  sqlite3_flutter_libs: ^0.5.24
 
 dev_dependencies:
   flutter_test:

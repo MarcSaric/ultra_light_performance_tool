@@ -60,6 +60,12 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+    packagingOptions {
+        jniLibs {
+            // Forces 16KB Pages
+            useLegacyPackaging = false
+        }
+    }
 }
 
 flutter {
