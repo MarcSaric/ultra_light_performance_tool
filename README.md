@@ -46,7 +46,7 @@ The example App fully supports opening .ulpt files in place to import saved data
 Currently the app is only in English and German as testing is done with selected testers.
 If you like to be part of the testing team, please leave a message.
 
-ULPT is meant to be an open source / free to use prodcut.
+ULPT is meant to be an open source / free to use product.
 It will be published free of charge to the respective stores.
 
 If you want to publish your own version, please feel free.
