@@ -6,7 +6,7 @@ The use of this tool does not relief the Pilot in Command from consulting the ai
 The tool uses estimated and interpolated values only and is therefore just for information.
 The liability lies solely with the Pilot in Command.
 
-If you'd like to contirbute to this project, please open a pull-request or send me a message asking what you could do to help out.
+If you'd like to contribute to this project, please open a pull-request or send me a message asking what you could do to help out.
 
 ## Getting started
 
